@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Amit! 👋
 
-<!--
-**amit-analyst856/amit-analyst856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+- **B.Tech in CSE (Data Science)** | **AKTU University** (2024 - 2028)
 
-Here are some ideas to get you started:
+### 🎯 Career Goal
+- **Aspiring Data Analyst** 📊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Journey
+- ☕ **Data Structures & Algorithms:** Practicing logic building and problem-solving using **Java**.
+- 🐍 **Data Analytics:** Currently mastering **Python** and its core concepts for data handling.
+- 🌐 **Web Basics:** Built a responsive **Amazon UI Clone** using HTML and CSS.
+
+### 🛠 Tech Stack
+- **Languages:** Java, Python, HTML5, CSS3
+- **Tools:** Git, GitHub, VS Code
+
+---
+*"Dedicated to learning the art of Data Science and Problem Solving."*
+Ye sahi hai
