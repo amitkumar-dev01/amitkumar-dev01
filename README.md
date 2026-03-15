@@ -17,4 +17,3 @@
 
 ---
 *"Dedicated to learning the art of Data Science and Problem Solving."*
-Ye sahi hai
