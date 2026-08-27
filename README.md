@@ -1,19 +1,21 @@
 # Hi there, I'm Amit! 👋
 
 ### 🎓 Education
-- **B.Tech in CSE (Data Science)** | **AKTU University** (2024 - 2028)
+- **B.Tech in CSE** | **AKTU University** (2024 - 2028)
 
 ### 🎯 Career Goal
-- **Aspiring Data Analyst** 📊
+- **Aspiring Full-Stack Java Developer** 💻
 
 ### 🚀 Technical Journey
-- ☕ **Data Structures & Algorithms:** Practicing logic building and problem-solving using **Java**.
-- 🐍 **Data Analytics:** Currently mastering **Python** and its core concepts for data handling.
-- 🌐 **Web Basics:** Built a responsive **Amazon UI Clone** using HTML and CSS.
+- **Data Structures & Algorithms:** Practicing logic building and problem-solving using **Java**.
+- **Backend Development:** Currently mastering **Spring Boot** and REST APIs for scalable backends.
+- **Frontend & Databases:** Building responsive web interfaces with **HTML, CSS, JS** and managing databases using **MySQL**.
 
 ### 🛠 Tech Stack
-- **Languages:** Java, Python, HTML5, CSS3
+- **Languages:** Java, JavaScript, HTML5, CSS3, SQL
+- **Frameworks & Databases:** Spring Boot (Learning), MySQL
 - **Tools:** Git, GitHub, VS Code
 
 ---
-*"Dedicated to learning the art of Data Science and Problem Solving."*
+
+*"Passionate about building full-stack web applications and solving complex problems."*
